@@ -4,3 +4,7 @@
     --color-custom: #ff0000;
     --animate-bounce: bounce 1s infinite;
 }
+
+.card {
+    @apply bg-green-800 p-4 rounded-lg shadow-md;
+}

@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --color-custom: #ff0000;
+    --animate-bounce: bounce 1s infinite;
+}
